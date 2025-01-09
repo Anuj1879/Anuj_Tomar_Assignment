@@ -1,0 +1,30 @@
+Main Project Directory: Anuj_Tomar_Assigment
+
+This repository contains: Assignment - Node.js Developer.
+
+Project: Assignment - Node.js Developer
+This project contains the backend code for a task management system.
+
+Steps to Run the Project:
+1. Navigate to the project directory:
+   cd assignment-nodejs-developer
+2. Install the required dependencies:
+   npm install
+3. Start the project:
+   npm start
+
+Features:
+- Task management APIs.
+    Assign tasks to users. 
+    Allow managers to assign tasks to users within their team. 
+    View assigned tasks. 
+    Update task assignments
+- Swagger documentation for API testing.
+- Error handling for all operations.
+
+
+
+Anuj Tomar
+Software Developer
+Email: anuj.tomar1879@gmail.com
+Phone: +91 7017952605
